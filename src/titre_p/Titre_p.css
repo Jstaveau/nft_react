@@ -1,0 +1,28 @@
+.titreNft {
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.titre{
+    width: 90%;
+}
+.titre p, .logoDeux{
+    color: #5C7191;
+}
+.logoUn{
+    color: #00FFF8;
+}
+.prixHeure{
+    display: flex;
+    justify-content: space-between;
+}
+.logoUn, .logoDeux{
+    display: flex;
+    align-items: center;
+}
+.logoUn svg, .logoDeux svg {
+    margin-right: 5px;
+}
+.text_turquoise{
+    color: #00FFF8;
+}

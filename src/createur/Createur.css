@@ -1,0 +1,24 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+.aOver{
+    color: #00FFF8;
+}
+
+.creationDe {
+    color: #5C7191;
+}
+
+.divCrea{
+    display: flex;
+    align-items: center;
+    width: 90%;
+}
+
+.divCrea img{
+    width: 10%;
+    border-radius: 50%;
+    border: solid white 1px;
+    margin-right: 10px;
+}
