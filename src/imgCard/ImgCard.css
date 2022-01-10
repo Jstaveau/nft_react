@@ -1,0 +1,32 @@
+.imgNft{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.divNft{
+    width: 90%;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.overTurquoise{
+    background-color: #00bdce;
+    position: absolute;
+    top: 0;
+    border-radius: 10px;
+    width: 100%;
+    height: 99%;
+    opacity: 60%;
+}
+
+.oeil {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.d-none{
+    display: none;
+}
